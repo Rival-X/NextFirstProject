@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-course",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "gitDependencies": {
+    "public-package-name": "https://github.com/Rival-X/NextFirstProject"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "mongodb": "^3.6.4",
+    "next": "10.0.6",
+    "npm-git-install": "^0.3.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-markdown": "^6.0.0",
+    "react-syntax-highlighter": "^15.4.3"
+  }
+}
